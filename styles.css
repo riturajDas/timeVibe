@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(240,240,240);
+}
+
+#day {
+  height: 60%;
+  width: 90%;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  padding-top: 2vh;
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 20vh;
+  font-weight: lighter;
+}
+
+#date {
+  height: 40%;
+  width: 90%;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  padding-top: 20vh;
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 10vh;
+  font-weight: normal;
+}
+
+#clock {
+  height: 40%;
+  width: 90%;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  padding-top: 40vh;
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 20vh;
+  font-weight: lighter;
+}
