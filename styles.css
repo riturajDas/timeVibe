@@ -3,12 +3,12 @@ body {
 }
 
 #day {
-  height: 60%;
-  width: 90%;
+  height: 70%;
+  width: 100%;
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
-  padding-top: 2vh;
+  padding-top: 5vh;
   font-family: Helvetica;
   text-align: center;
   font-size: 20vh;
@@ -17,11 +17,11 @@ body {
 
 #date {
   height: 40%;
-  width: 90%;
+  width: 100%;
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
-  padding-top: 20vh;
+  padding-top: 30vh;
   font-family: Helvetica;
   text-align: center;
   font-size: 10vh;
@@ -30,11 +30,11 @@ body {
 
 #clock {
   height: 40%;
-  width: 90%;
+  width: 100%;
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
-  padding-top: 40vh;
+  padding-top: 60vh;
   font-family: Helvetica;
   text-align: center;
   font-size: 20vh;
